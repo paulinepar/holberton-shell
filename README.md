@@ -1,0 +1,1 @@
+Readme - the name alone already carries an invitation, "Read me". And that is precisely the purpose of the name. The readme file is the first file that a developer needs to consult before starting a project. Therefore, it is of utmost importance that developers know how to write a correct readme file in order to compile the relevant information concisely.
