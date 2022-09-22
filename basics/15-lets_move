@@ -1,2 +1,2 @@
 #!/bin/bash
-mv holbertonschool-shel/basics/[[:UPPER:]]* /tmp/u
+mv /basics/[[:UPPER:]]* /tmp/u
