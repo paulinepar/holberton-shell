@@ -1,2 +1,2 @@
 #!/bin/bash
-mv holbertonschool-shell/basics/[[:upper:]]*
+mv  /holbertonschool-shell/basics/[[:upper:]]* 
