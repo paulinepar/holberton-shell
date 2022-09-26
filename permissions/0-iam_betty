@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 0-iam_betty betty
+chmod a+rx 0-iam_betty
