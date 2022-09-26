@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+rx 0-iam_betty
+su betty
