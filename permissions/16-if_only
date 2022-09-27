@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent hello if guillaume
+sudo chown vincent hello
