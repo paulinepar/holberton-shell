@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --recursive 711 permissions
+chmod d 755
