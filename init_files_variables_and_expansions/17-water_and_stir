@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 5#$($WATER | tr water 01234) + 5#$($STIR | tr stir. 01234) 8#$($BESTCHOL tr 01234567 BESTCHOL) 
+printf (((5#$(echo $WATER | tr water 01234))+(5#$(echo $STIR | tr stir. 01234)))|(8#$($BESTCHOL | TR 01234567 bestchol))
